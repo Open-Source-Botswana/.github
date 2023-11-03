@@ -24,7 +24,7 @@ Our actions and decisions are guided by the following core values:
 
 * Inclusivity: We welcome and value diverse perspectives, backgrounds, and experiences. We believe in a community that is inclusive and accessible to all.
 * Integrity: We conduct ourselves with honesty, transparency, and ethical responsibility in all our endeavors.
-Innovation: We embrace creativity and encourage thinking outside the box to drive meaningful change.
+* Innovation: We embrace creativity and encourage thinking outside the box to drive meaningful change.
 * Accountability: We take responsibility for our actions and strive to meet the commitments we make to our community.
 * Collaboration: We believe that working together is the key to success and actively seek partnerships to achieve our mission.
 
